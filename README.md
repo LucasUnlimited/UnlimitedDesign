@@ -1,6 +1,6 @@
 # UnlimitedDesign
 
-Landing page desenvolvida para o escritório de Design Unlimited Design.
+Landing page (em desenvolvimento) para o escritório de Design Unlimited Design.
 
 -------------------------------------------------------------------------
 
