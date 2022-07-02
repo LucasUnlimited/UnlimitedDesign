@@ -1,10 +1,10 @@
 # UnlimitedDesign
 
-Landing page (em desenvolvimento) para o escritório de Design Unlimited Design.
+Landing page para o escritório de Design Unlimited Design.
 
 -------------------------------------------------------------------------
 
-O design proposto está focado na tendência do uso de sites single page.
+O design proposto está focado na tendência do uso dos sites single page.
 
 -------------------------------------------------------------------------
 
